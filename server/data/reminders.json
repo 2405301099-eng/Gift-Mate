@@ -1,0 +1,24 @@
+[
+  {
+    "id": "rem-1",
+    "title": "Diwali Family Celebration",
+    "person": "Extended Family & In-Laws",
+    "occasion": "Diwali",
+    "date": "2026-11-08",
+    "daysLeft": 32,
+    "budget": 5000,
+    "suggestedProductId": "prod-5",
+    "notify": true
+  },
+  {
+    "id": "rem-2",
+    "title": "Mom's 55th Birthday",
+    "person": "Maa",
+    "occasion": "Birthday",
+    "date": "2026-10-24",
+    "daysLeft": 17,
+    "budget": 3000,
+    "suggestedProductId": "prod-8",
+    "notify": true
+  }
+]

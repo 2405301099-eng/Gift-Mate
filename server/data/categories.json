@@ -1,0 +1,62 @@
+[
+  {
+    "id": "festive-hampers",
+    "name": "Curated Luxury Hampers",
+    "emoji": "🪔",
+    "icon": "featured_seasonal_and_gifts",
+    "description": "Opulent celebratory hampers with wax seals and artisanal sweets",
+    "itemCount": 24,
+    "startingPrice": 899,
+    "popularOccasion": "Diwali & Weddings"
+  },
+  {
+    "id": "personalized",
+    "name": "Personalized Keepsakes",
+    "emoji": "✨",
+    "icon": "auto_awesome",
+    "description": "Bespoke LED frames, gold-foil horoscope plates & engraved memory boxes",
+    "itemCount": 38,
+    "startingPrice": 499,
+    "popularOccasion": "Anniversaries & Birthdays"
+  },
+  {
+    "id": "gourmet",
+    "name": "Gourmet & Treats",
+    "emoji": "🍫",
+    "icon": "restaurant",
+    "description": "Single-estate Chikmagalur coffee, Kashmiri mamra nuts & dark Belgian cocoa",
+    "itemCount": 31,
+    "startingPrice": 599,
+    "popularOccasion": "Corporate & Festivals"
+  },
+  {
+    "id": "home-decor",
+    "name": "Artisanal Home & Fragrance",
+    "emoji": "🕯️",
+    "icon": "spa",
+    "description": "Kannauj attar soy candles, pure brass diyas and marble incense trays",
+    "itemCount": 29,
+    "startingPrice": 399,
+    "popularOccasion": "Housewarmings & Diwali"
+  },
+  {
+    "id": "tech",
+    "name": "Smart Tech & Gadgets",
+    "emoji": "🎧",
+    "icon": "headphones",
+    "description": "Rose gold ANC earbuds, ambient wireless lamps and engraved smart accessories",
+    "itemCount": 18,
+    "startingPrice": 1299,
+    "popularOccasion": "Siblings & Farewell"
+  },
+  {
+    "id": "apparel",
+    "name": "Festive Textiles & Luxury",
+    "emoji": "🧣",
+    "icon": "styler",
+    "description": "Handspun Pashmina stoles, royal brocade pouches and silk accessories",
+    "itemCount": 16,
+    "startingPrice": 1499,
+    "popularOccasion": "Weddings & Milestones"
+  }
+]
